@@ -1,5 +1,0 @@
-City: Athens
-Property: Mike's House, Tax Rate: 0.11
-AthensSharedRoom: Mike's HouseTax Rate: 0.11
-Property: Helens House, Tax Rate: 0.11
-AthensSharedRoom: Helens HouseTax Rate: 0.11
